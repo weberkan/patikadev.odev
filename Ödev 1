@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patika.dev</title>
+</head>
+
+<body>
+    <h1>Erkan İÇİL</h1>
+    <h4>Hakkımda</h4>
+    <p>Merhaba Ankara'da yaşıyorum Öğrenmeyi, üretmeyi seven birisiyim. Web geliştirmw konuları bu aralar beni acayip
+        cezbediyor.
+        Hadi hayırlısı bakalım.</p>
+    <h3>Sevdiğim Filmler</h3>
+    <!--
+    Burada Film isimleri yer alacak
+-->
+    <ol>
+        <li> <strong><ins>Vikings Valhalla</ins></strong> </li>
+        <p>gerçekten izlenesi bir dizi. Netflix'te bulabilirsiniz.</p>
+
+        <li> <strong><ins>Game of thrones</ins></strong> </li>
+        <li> <strong><ins>The Lord of the Rings</ins></strong> </li>
+    </ol>
+    <p>
+        Evet şimdilik bahsedeceklerim bu kadar sonra görüşmek dileğiyle.
+    </p>
+</body>
+
+</html>

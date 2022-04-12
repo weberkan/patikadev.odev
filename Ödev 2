@@ -19,14 +19,18 @@
     Burada Film isimleri yer alacak
 -->
     <ol>
-        <li> <strong><ins>Vikings Valhalla</ins></strong> </li>
+        <li> <strong><ins> <a href="https://www.imdb.com/title/tt0120737/"> Vikings Valhalla</a></ins></strong> </li>
         <p>gerçekten izlenesi bir dizi. Netflix'te bulabilirsiniz.</p>
 
         <li> <strong><ins>Game of thrones</ins></strong> </li>
         <li> <strong><ins>The Lord of the Rings</ins></strong> </li>
     </ol>
+
+<img src="lotr.jpg" alt="Resim yüklenemedi.">
+
+
     <p>
-        Evet şimdilik bahsedeceklerim bu kadar sonra görüşmek dileğiyle.
+        Frodo yüzüğü parmağına geçiriyor.
     </p>
 </body>
 
